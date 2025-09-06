@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for devops
+Schell Scripts for reference
